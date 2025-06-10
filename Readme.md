@@ -104,7 +104,7 @@ A full-stack movie booking application where users can browse movies, view theat
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/PCUBE-Movies.git
+   git clone https://github.com/icyxonyx/PCUBE-Movies.git
    cd "PCUBE Movies"
    ```
 
